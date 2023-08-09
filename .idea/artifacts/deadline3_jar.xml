@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="deadline3:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/deadline3_jar</output-path>
+    <root id="archive" name="deadline3.jar">
+      <element id="module-output" name="deadline3" />
+    </root>
+  </artifact>
+</component>
